@@ -6,9 +6,8 @@
 
 *Apasionado por el desarrollo web moderno y la creación de soluciones innovadoras*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/james-leonardo-martinez-casta%C3%B1eda-a84745346/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesleonardo230@gmail.com)
 
 </div>
 
@@ -18,7 +17,7 @@
 
 Soy estudiante de **Ingeniería de Software** con una fuerte pasión por el desarrollo web full-stack y las tecnologías modernas. Me caracterizo por mi **dedicación**, **capacidad de aprendizaje continuo** y **entusiasmo** por enfrentar nuevos desafíos tecnológicos.
 
-Actualmente busco **oportunidades de prácticas profesionales** donde pueda:
+Actualmente busco **oportunidades profesionales** donde pueda:
 - ✨ Aplicar y expandir mis conocimientos técnicos
 - 🤝 Colaborar en proyectos reales y desafiantes
 - 📈 Crecer profesionalmente junto a equipos experimentados
@@ -40,21 +39,11 @@ Actualmente busco **oportunidades de prácticas profesionales** donde pueda:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 
----
-
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
-
-</div>
-
----
-
-
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
 ---
 
 ## 📫 Contacto
@@ -62,8 +51,6 @@ Actualmente busco **oportunidades de prácticas profesionales** donde pueda:
 <div align="center">
 
 📱 **Teléfono:** +57 317 041 14 37
-
-💼 **Disponible para:** Prácticas profesionales | Proyectos colaborativos | Oportunidades de aprendizaje
 
 </div>
 
@@ -75,6 +62,5 @@ Actualmente busco **oportunidades de prácticas profesionales** donde pueda:
 
 *"El código es poesía, y cada proyecto es una oportunidad para crear algo extraordinario"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=for-the-badge)
 
 </div>
