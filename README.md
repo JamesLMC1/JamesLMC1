@@ -6,7 +6,7 @@
 
 *Apasionado por el desarrollo web moderno y la creación de soluciones innovadoras*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/james-leonardo-martinez-casta%C3%B1eda-a84745346/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-leonardo-martinez-casta%C3%B1eda-a84745346/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesleonardo230@gmail.com)
 
 </div>
