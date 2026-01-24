@@ -1,32 +1,55 @@
-# 👨‍💻 James Martinez
+👨‍💻 James Martinez
+<div align="center">
+Estudiante de Ingeniería de Software
+Apasionado por el desarrollo web moderno y la creación de soluciones innovadoras
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+</div>
 
-## Estudiante de Ingeniería de Software
+🚀 Sobre mí
+Soy estudiante de Ingeniería de Software con una fuerte pasión por el desarrollo web full-stack y las tecnologías modernas. Me caracterizo por mi dedicación, capacidad de aprendizaje continuo y entusiasmo por enfrentar nuevos desafíos tecnológicos.
+Actualmente busco oportunidades de prácticas profesionales donde pueda:
+
+✨ Aplicar y expandir mis conocimientos técnicos
+🤝 Colaborar en proyectos reales y desafiantes
+📈 Crecer profesionalmente junto a equipos experimentados
+💡 Aportar soluciones creativas e innovadoras
 
 
----
+💻 Stack Tecnológico
+Frontend
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Mostrar imagen
+Backend
+Mostrar imagen
+Mostrar imagen
 
-Soy estudiante de Ingeniería de Software, apasionado por el aprendizaje continuo y el desarrollo profesional. Me destaco por mi capacidad para combinar disciplina y entusiasmo en el trabajo y el estudio, buscando siempre mejorar y superar nuevos desafíos.
+📊 Estadísticas de GitHub
+<div align="center">
+Mostrar imagen
+Mostrar imagen
+</div>
 
-Mi objetivo es iniciar mis prácticas profesionales para aplicar los conocimientos adquiridos, aprender de experiencias reales y demostrar mis habilidades tanto técnicas como personales.
+🎯 Objetivos Actuales
+typescriptconst objetivos = {
+  corto_plazo: "Conseguir prácticas profesionales",
+  aprendizaje: ["Profundizar en React y TypeScript", "Dominar Django REST Framework"],
+  meta: "Convertirme en un desarrollador full-stack completo"
+};
 
-Poseo habilidades en tecnologías como **HTML**, **CSS**, **Java**, **PHP** y bases de datos **SQL**, lo que me permite desarrollar soluciones eficientes y funcionales, contribuyendo con compromiso e innovación a cualquier proyecto en el que participe.
+📫 Contacto
+<div align="center">
+📱 Teléfono: +57 317 041 14 37
+💼 Disponible para: Prácticas profesionales | Proyectos colaborativos | Oportunidades de aprendizaje
+</div>
 
----
-
-## 🛠️ Tecnologías
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 📫 Contacto
-
-📱 +57 317 411 437
-
----
-
+<div align="center">
 ⭐ ¡Gracias por visitar mi perfil!
+"El código es poesía, y cada proyecto es una oportunidad para crear algo extraordinario"
+Mostrar imagen
+</div>
