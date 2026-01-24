@@ -54,14 +54,6 @@ Actualmente busco **oportunidades de prácticas profesionales** donde pueda:
 
 ---
 
-## 🎯 Objetivos Actuales
-```typescript
-const objetivos = {
-  corto_plazo: "Conseguir prácticas profesionales",
-  aprendizaje: ["Profundizar en React y TypeScript", "Dominar Django REST Framework"],
-  meta: "Convertirme en un desarrollador full-stack completo"
-};
-```
 
 ---
 
