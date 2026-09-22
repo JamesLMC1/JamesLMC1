@@ -105,18 +105,6 @@
 </div>
 
 <br/>
-
-## `04` &nbsp;GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0F172A" height="165"/>
-
-</div>
-
-JamesLMC1
-
 <br/>
 
 ## `05` &nbsp;Contacto
