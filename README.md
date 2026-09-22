@@ -115,7 +115,7 @@
 
 </div>
 
-> 💡 Reemplaza `TU_USUARIO` por tu usuario real de GitHub para activar estas tarjetas.
+JamesLMC1
 
 <br/>
 
