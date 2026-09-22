@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola%2C+soy+James+Martinez;Desarrollador+FullStack;Ingeniero+de+Software+en+formaci%C3%B3n;Construyendo+con+c%C3%B3digo+%2B+IA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola%2C+soy+James+Martinez;Desarrollador+FullStack;" alt="Typing SVG" />
 
 <br/>
 
