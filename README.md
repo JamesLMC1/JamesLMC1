@@ -91,7 +91,7 @@ Aprendí control de versiones con **Git** y **Git Flow**, y adquirí experiencia
 
 </div>
 
-> 💡 Reemplaza `TU_USUARIO` por tu nombre de usuario real de GitHub para que estas tarjetas funcionen.
+> 💡 Reemplaza `JamesLMC1` por tu nombre de usuario real de GitHub para que estas tarjetas funcionen.
 
 ---
 
